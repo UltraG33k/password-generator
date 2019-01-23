@@ -1,4 +1,4 @@
 # password-generator
-Python based password generator
+Python based password generator (Windows only at the moment)
 
-Can be compiled with pyinstaller
+Can be compiled to an .exe with pyinstaller
